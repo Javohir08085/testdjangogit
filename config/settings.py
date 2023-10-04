@@ -31,6 +31,7 @@ ALLOWED_HOSTS = []
 # Application definition
 
 INSTALLED_APPS = [
+    'fdchblwsu',
     'home',
     'news',
     'django.contrib.admin',
